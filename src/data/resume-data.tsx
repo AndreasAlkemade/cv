@@ -27,8 +27,8 @@ export const RESUME_DATA = {
   about:
     "Social Data Scientist with a background in Political Science and a passion for data.",
   summary:
-    "I like to do research; collecting and analyzing data, and communicating the results. Mostly in Pyhton. And mostly about politics, economics, and finance. I am currently working with reasearch at Newsec Advisory.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+    "I like to do research; collecting and analyzing data, and communicating the results. Mostly in Pyhton. And mostly about politics, economics, and finance. I am currently working with research at Newsec Advisory.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/117453715?v=4",
   personalWebsiteUrl: "https://alkemade.xyz",
   contact: {
     email: "andreas@alkemade.dk",
@@ -103,42 +103,29 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "Newsec Research Dashboard",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Python",
+        "Streamlit",
+        "Web Scraping",
+        "Git",
       ],
-      description: "A platform to build and grow your online business",
+      description: "A dashboard for Newsec's research team to get and visualize data series relevant to the Danish real estate market",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "github.com",
+        href: "https://newsec-5xwvzeswpahptrhsfyvubv.streamlit.app",
       },
     },
     {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      title: "Alkemade.me",
+      techStack: ["Side Project", "Next.js"],
       description:
-        "Browser extension that records everything happening in a web application",
-      logo: MonitoLogo,
-      link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
-      },
-    },
-    {
-      title: "Jarocki.me",
-      techStack: ["Side Project", "Next.js", "MDX"],
-      description:
-        "My personal website and blog. Built with Next.js and Notion API",
+        "My personal website and blog. Built with Next.js and Notion API (forked from Bartosz Jarocki).",
       logo: JarockiMeLogo,
       link: {
         label: "github.com",
-        href: "https://jarocki.me/",
+        href: "https://alkemade.me/",
       },
     },
   ],
