@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Social Data Scientist with a background in Political Science and a passion for data.",
   summary:
-    "I like to do research; collecting and analyzing data, and communicating the results. Mostly in Pyhton. And mostly about politics, economics, and finance. I am currently working with research at Newsec Advisory.",
+    "I like to do research; collecting and analyzing data, and communicating the results. Mostly in Pyhton. And mostly about politics, economics, and finance. Currently working with research at Newsec Advisory.",
   avatarUrl: "https://avatars.githubusercontent.com/u/117453715?v=4",
   personalWebsiteUrl: "https://alkemade.xyz",
   contact: {
