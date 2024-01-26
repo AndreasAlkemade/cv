@@ -103,7 +103,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Newsec Research Dashboard",
+      title: "Research Dashboard",
       techStack: [
         "Python",
         "Streamlit",
