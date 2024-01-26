@@ -66,9 +66,16 @@ export const RESUME_DATA = {
     },
     {
       school: "University of Aarhus & Luiss Guido Carli",
-      degree: "Courses in Mathematics, Statistics, and Economics", 
+      degree: "Loose courses and electives", 
       start: "2018",
       end: "2022",
+      techStack: [
+        "Linear Algebra",
+        "Probability Theory",
+        "Microeconomics",
+        "Cost Accounting",
+        "European Institutions",
+      ],
     },
   ],
   work: [
